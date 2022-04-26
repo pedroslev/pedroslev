@@ -14,7 +14,7 @@ I am a 22yr old Devops Engineer during daylight and fullstack dev during night b
 - PHP<img src='https://w7.pngwing.com/pngs/185/655/png-transparent-logo-php-computer-icons-symbol-miscellaneous-emblem-text.png' alt='PHP' height='30'>
 - BASH SCRIPTING<img src='https://bashlogo.com/img/symbol/svg/monochrome_dark.svg' alt='BASH' height='30'>
 - NETWORKING<img src='https://www.pngkey.com/png/detail/137-1373884_networking-icon-white-2-networking-icon-png-white.png' alt='NETWORKING' height='30'>
-- SQL<img src='https://www.clipartmax.com/png/middle/243-2432711_azure-sql-database-icon.png' alt='SQL' height='30'>
+- SQL<img src='https://img.icons8.com/external-flaticons-lineal-flat-icons/452/external-sql-computer-programming-flaticons-lineal-flat-icons.png' alt='SQL' height='30'>
 - MSSRV SYSADM<img src='https://e7.pngegg.com/pngimages/682/883/png-clipart-microsoft-servers-windows-server-2016-windows-server-2012-computer-software-social-network-blue-angle.png' alt='LINUXSYSADM' height='30'>
 - LINUX SYSADM<img src='https://w7.pngwing.com/pngs/970/403/png-transparent-tux-linux-mint-logo-linux-logo-vertebrate-bird.png' alt='LINUXSYSADM' height='30'>
 
