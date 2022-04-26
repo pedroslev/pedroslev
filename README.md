@@ -21,7 +21,7 @@ I am a 22yr old Devops Engineer during daylight and fullstack dev during night b
 
 
 ### Interests and contact
-- 🌱 I’m currently learning Solidity, Rust 
+- 🌱 I’m currently learning Solidity, Rust <img src='https://img.icons8.com/external-filled-outline-wichaiwi/344/external-blockchain-non-fungible-token-filled-outline-wichaiwi.png' alt='SQL' height='40'>
 - 📫 How to reach me: plopezslevin@gmail.com 
 
 
