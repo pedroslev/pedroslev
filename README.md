@@ -13,7 +13,7 @@ I am a 22yr old Devops Engineer during daylight and fullstack dev during night b
 - DOCKER<img src='https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png' alt='DOCKER' height='40'>
 - PHP<img src='https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-php-web-development-flaticons-lineal-color-flat-icons-2.png' alt='PHP' height='40'>
 - BASH SCRIPTING<img src='https://img.icons8.com/plasticine/344/bash.png' alt='BASH' height='40'>
-- NETWORKING<img src='https://www.pngkey.com/png/detail/137-1373884_networking-icon-white-2-networking-icon-png-white.png' alt='NETWORKING' height='30'>
+- NETWORKING<img src='https://img.icons8.com/external-itim2101-lineal-color-itim2101/344/external-networking-network-technology-itim2101-lineal-color-itim2101-1.png' alt='NETWORKING' height='40'>
 - SQL<img src='https://img.icons8.com/external-flat-juicy-fish/452/external-sql-coding-and-development-flat-flat-juicy-fish.png' alt='SQL' height='40'>
 - MSSRV SYSADM<img src='https://img.icons8.com/color/452/windows-logo.png' alt='LINUXSYSADM' height='40'>
 - LINUX SYSADM<img src='https://img.icons8.com/color/344/linux--v1.png' alt='LINUXSYSADM' height='40'>
@@ -27,7 +27,7 @@ I am a 22yr old Devops Engineer during daylight and fullstack dev during night b
 
 
 ### Socials
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pedroslev)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/plopezslevin/)  [<img src='https://i.pinimg.com/originals/2c/da/19/2cda1925dcf4fb8f0644413f49671ffa.jpg' alt='instagram' height='40'>](https://www.instagram.com/pedroslev/)  [<img src='https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png' alt='twitter' height='40'>](https://twitter.com/pedroslevv)  [<img src='https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png' alt='website' height='40'>](www.hazear.com)  
+[<img src='https://img.icons8.com/ios-glyphs/344/github.png' alt='github' height='40'>](https://github.com/pedroslev)  [<img src='https://img.icons8.com/color/344/linkedin-circled--v1.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/plopezslevin/)  [<img src='https://img.icons8.com/color/344/instagram-new--v1.png' alt='instagram' height='40'>](https://www.instagram.com/pedroslev/)  [<img src='https://img.icons8.com/fluency/344/twitter.png' alt='twitter' height='40'>](https://twitter.com/pedroslevv)  [<img src='https://img.icons8.com/fluency/344/domain.png' alt='website' height='40'>](www.hazear.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroslev)](https://github.com/anuraghazra/github-readme-stats)
 
