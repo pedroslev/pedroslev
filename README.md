@@ -23,7 +23,7 @@ I am a 22yr old Devops Engineer during daylight and fullstack dev during night b
 - 📫 How to reach me: plopezslevin@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pedroslev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/plopezslevin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pedroslev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pedroslevv)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.hazear.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pedroslev)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/plopezslevin/)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='instagram' height='40'>](https://www.instagram.com/pedroslev/)  [<img src='https://image.similarpng.com/very-thumbnail/2020/06/Popular-Logo-Twitter-icon-transparent-PNG.png' alt='twitter' height='40'>](https://twitter.com/pedroslevv)  [<img src='https://i.pinimg.com/originals/73/59/a8/7359a8e49a6fadcc653bd947f91df724.jpg' alt='website' height='40'>](www.hazear.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroslev)](https://github.com/anuraghazra/github-readme-stats)
 
