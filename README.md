@@ -9,12 +9,12 @@ I am a 22yr old Devops Engineer during daylight and fullstack dev during night b
 - JS<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png' alt='JS' height='30'>
 - NODEJS<img src='https://e7.pngegg.com/pngimages/1006/374/png-clipart-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-thumbnail.png' alt='NODEJS' height='30'>
 - HTML CSS<img src='https://img2.freepng.es/20180503/cee/kisspng-web-development-html-css3-the-ohana-code-logo-2cpaper-projection-shaded_1660937-html-dropdown-js-5aebd5631cd291.7591600015254050271181.jpg' alt='HTML CSS' height='30'>
-- CICD<img src='https://www.pngitem.com/pimgs/m/99-990078_cicd-circle-hd-png-download.png' alt='CICD' height='30'>
+- CICD<img src='https://e7.pngegg.com/pngimages/464/659/png-clipart-devops-computer-icons-agile-software-development-others-miscellaneous-text.png' alt='CICD' height='30'>
 - DOCKER<img src='https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png' alt='DOCKER' height='30'>
-- PHP<img src='' alt='PHP' height='30'>
+- PHP<img src='https://w7.pngwing.com/pngs/185/655/png-transparent-logo-php-computer-icons-symbol-miscellaneous-emblem-text.png' alt='PHP' height='30'>
 - BASH SCRIPTING<img src='https://bashlogo.com/img/symbol/svg/monochrome_dark.svg' alt='BASH' height='30'>
 - NETWORKING<img src='https://www.pngkey.com/png/detail/137-1373884_networking-icon-white-2-networking-icon-png-white.png' alt='NETWORKING' height='30'>
-- SQL<img src='https://e7.pngegg.com/pngimages/105/17/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-blue-text.png' alt='SQL' height='30'>
+- SQL<img src='https://www.clipartmax.com/png/middle/243-2432711_azure-sql-database-icon.png' alt='SQL' height='30'>
 - MSSRV SYSADM<img src='https://e7.pngegg.com/pngimages/682/883/png-clipart-microsoft-servers-windows-server-2016-windows-server-2012-computer-software-social-network-blue-angle.png' alt='LINUXSYSADM' height='30'>
 - LINUX SYSADM<img src='https://w7.pngwing.com/pngs/970/403/png-transparent-tux-linux-mint-logo-linux-logo-vertebrate-bird.png' alt='LINUXSYSADM' height='30'>
 
