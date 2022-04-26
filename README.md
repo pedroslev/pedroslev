@@ -19,8 +19,12 @@ I am a 22yr old Devops Engineer during daylight and fullstack dev during night b
 - LINUX SYSADM<img src='https://w7.pngwing.com/pngs/970/403/png-transparent-tux-linux-mint-logo-linux-logo-vertebrate-bird.png' alt='LINUXSYSADM' height='30'>
 
 
+
+
 - 🌱 I’m currently learning Solidity, Rust 
 - 📫 How to reach me: plopezslevin@gmail.com 
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pedroslev)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/plopezslevin/)  [<img src='https://i.pinimg.com/originals/2c/da/19/2cda1925dcf4fb8f0644413f49671ffa.jpg' alt='instagram' height='40'>](https://www.instagram.com/pedroslev/)  [<img src='https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png' alt='twitter' height='40'>](https://twitter.com/pedroslevv)  [<img src='https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png' alt='website' height='40'>](www.hazear.com)  
