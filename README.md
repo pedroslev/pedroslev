@@ -5,11 +5,11 @@
 I am a 22yr old Devops Engineer during daylight and fullstack dev during night based in Buenos Aires Argentina:)
 
 ### Skills:
-- REACTJS<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png' alt='REACTJS' height='30'>
-- JS<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png' alt='JS' height='30'>
+- REACTJS<img src='https://img.icons8.com/ultraviolet/344/react--v2.png' alt='REACTJS' height='40'>
+- JS<img src='https://img.icons8.com/color/344/javascript--v1.png' alt='JS' height='40'>
 - NODEJS<img src='https://img.icons8.com/color/344/nodejs.png' alt='NODEJS' height='40'>
-- HTML CSS<img src='https://img2.freepng.es/20180503/cee/kisspng-web-development-html-css3-the-ohana-code-logo-2cpaper-projection-shaded_1660937-html-dropdown-js-5aebd5631cd291.7591600015254050271181.jpg' alt='HTML CSS' height='30'>
-- CICD<img src='https://e7.pngegg.com/pngimages/464/659/png-clipart-devops-computer-icons-agile-software-development-others-miscellaneous-text.png' alt='CICD' height='30'>
+- HTML CSS<img src='https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-html-media-agency-flaticons-lineal-color-flat-icons.png' alt='HTML CSS' height='40'>
+- CICD<img src='https://img.icons8.com/color/344/jenkins.png' alt='CICD' height='40'>
 - DOCKER<img src='https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png' alt='DOCKER' height='40'>
 - PHP<img src='https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-php-web-development-flaticons-lineal-color-flat-icons-2.png' alt='PHP' height='40'>
 - BASH SCRIPTING<img src='https://img.icons8.com/plasticine/344/bash.png' alt='BASH' height='40'>
