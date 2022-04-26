@@ -1,5 +1,5 @@
 ## Hi 👋, my name is Pedro Lopez Slevin
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+[<img src='https://img.icons8.com/ios-glyphs/344/github.png' alt='github' height='40'>](https://github.com/pedroslev)  [<img src='https://img.icons8.com/color/344/linkedin-circled--v1.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/plopezslevin/)  [<img src='https://img.icons8.com/color/344/instagram-new--v1.png' alt='instagram' height='40'>](https://www.instagram.com/pedroslev/)  [<img src='https://img.icons8.com/fluency/344/twitter.png' alt='twitter' height='40'>](https://twitter.com/pedroslevv)  [<img src='https://img.icons8.com/fluency/344/domain.png' alt='website' height='40'>](www.hazear.com)  
 
 ### About me
 I am a 22yr old Devops Engineer during daylight and fullstack dev during night based in Buenos Aires Argentina:)
@@ -24,10 +24,6 @@ I am a 22yr old Devops Engineer during daylight and fullstack dev during night b
 - 🌱 I’m currently learning Solidity, Rust <img src='https://img.icons8.com/external-filled-outline-wichaiwi/344/external-blockchain-non-fungible-token-filled-outline-wichaiwi.png' alt='SQL' height='40'>
 - 📫 How to reach me: plopezslevin@gmail.com 
 
-
-
-### Socials
-[<img src='https://img.icons8.com/ios-glyphs/344/github.png' alt='github' height='40'>](https://github.com/pedroslev)  [<img src='https://img.icons8.com/color/344/linkedin-circled--v1.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/plopezslevin/)  [<img src='https://img.icons8.com/color/344/instagram-new--v1.png' alt='instagram' height='40'>](https://www.instagram.com/pedroslev/)  [<img src='https://img.icons8.com/fluency/344/twitter.png' alt='twitter' height='40'>](https://twitter.com/pedroslevv)  [<img src='https://img.icons8.com/fluency/344/domain.png' alt='website' height='40'>](www.hazear.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroslev)](https://github.com/anuraghazra/github-readme-stats)
 
