@@ -2,7 +2,7 @@
 [<img src='https://img.icons8.com/ios-glyphs/344/github.png' alt='github' height='40'>](https://github.com/pedroslev)  [<img src='https://img.icons8.com/color/344/linkedin-circled--v1.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/plopezslevin/)  [<img src='https://img.icons8.com/color/344/instagram-new--v1.png' alt='instagram' height='40'>](https://www.instagram.com/pedroslev/)  [<img src='https://img.icons8.com/fluency/344/twitter.png' alt='twitter' height='40'>](https://twitter.com/pedroslevv)  [<img src='https://img.icons8.com/fluency/344/domain.png' alt='website' height='40'>](www.hazear.com)  
 
 ### About me
-I am a 23yr old Devops Engineer during daylight and fullstack dev during night based in Buenos Aires Argentina:)
+I am a 24yr old developer, ex Devops Engineer based in Buenos Aires Argentina:)
 
 ### Skills:
 - REACTJS<img src='https://img.icons8.com/ultraviolet/344/react--v2.png' alt='REACTJS' height='40'>
