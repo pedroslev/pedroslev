@@ -2,9 +2,28 @@
 [<img src='https://img.icons8.com/ios-glyphs/344/github.png' alt='github' height='40'>](https://github.com/pedroslev)  [<img src='https://img.icons8.com/color/344/linkedin-circled--v1.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/plopezslevin/)  [<img src='https://img.icons8.com/color/344/instagram-new--v1.png' alt='instagram' height='40'>](https://www.instagram.com/pedroslev/)  [<img src='https://img.icons8.com/fluency/344/twitter.png' alt='twitter' height='40'>](https://twitter.com/pedroslevv)  [<img src='https://img.icons8.com/fluency/344/domain.png' alt='website' height='40'>](www.hazear.com)  
 
 ### About me
-I am a 24yr old developer, ex Devops Engineer based in Buenos Aires Argentina:)
+I'm a 25-year-old AI Developer based in Buenos Aires, Argentina. Formerly a DevOps and SysAdmin engineer, now fully focused on building **real-world intelligent agents** that integrate LLMs, voice, RAG, and automation into customer service, scheduling, and collection solutions.
+
+
+- 🧩 Specialized in AI bots with RAG + tools
+- 🗣️ Real-time voice agents with SIP, ASR, TTS
+- 🧠 Architecting scalable LangGraph agents
+- 🔐 Secure APIs with OAuth2, Keycloak
+- 🛠️ Obsessed with debugging until it works
+
+---
 
 ### Skills:
+- PYTHON<img src='https://img.icons8.com/color/344/python--v1.png' alt='PYTHON' height='40'>
+- FASTAPI<img src='https://img.icons8.com/ios-filled/344/api.png' alt='FASTAPI' height='40'>
+- MONGODB<img src='https://img.icons8.com/color/344/mongodb.png' alt='MONGODB' height='40'>
+- REDIS<img src='https://img.icons8.com/color/344/redis.png' alt='REDIS' height='40'>
+- LANGCHAIN<img src='https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-langchain-a-framework-for-developing-applications-powered-by-language-models-logo-color-tal-revivo.png' alt='LANGCHAIN' height='40'>
+- OPENAI<img src='https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-openai-an-artificial-intelligence-research-laboratory-based-logo-color-tal-revivo.png' alt='OPENAI' height='40'>
+- CHROMADB<img src='https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-database-database-flaticons-lineal-color-flat-icons-5.png' alt='CHROMADB' height='40'>
+- KEYCLOAK<img src='https://www.keycloak.org/resources/images/keycloak_icon_512px.svg' alt='KEYCLOAK' height='40'>
+- ASR / TTS<img src='https://img.icons8.com/external-flatart-icons-outline-flatarticons/344/external-voice-recognition-voice-recognition-flatart-icons-outline-flatarticons.png' alt='ASR TTS' height='40'>
+- SIP / RTP<img src='https://img.icons8.com/external-filled-outline-wichaiwi/344/external-voip-telecommunication-wichaiwi-filled-outline-wichaiwi.png' alt='SIP' height='40'>
 - REACTJS<img src='https://img.icons8.com/ultraviolet/344/react--v2.png' alt='REACTJS' height='40'>
 - JS<img src='https://img.icons8.com/color/344/javascript--v1.png' alt='JS' height='40'>
 - NODEJS<img src='https://img.icons8.com/color/344/nodejs.png' alt='NODEJS' height='40'>
@@ -21,7 +40,6 @@ I am a 24yr old developer, ex Devops Engineer based in Buenos Aires Argentina:)
 
 
 ### Interests and contact
-- 🌱 I’m currently learning Solidity, Rust <img src='https://img.icons8.com/external-filled-outline-wichaiwi/344/external-blockchain-non-fungible-token-filled-outline-wichaiwi.png' alt='SQL' height='40'>
 - 📫 How to reach me: plopezslevin@gmail.com 
 
 
