@@ -6,7 +6,7 @@ I'm a 25-year-old AI Developer based in Buenos Aires, Argentina. Formerly a DevO
 
 
 - 🧩 Specialized in AI bots with RAG + tools
-- 🗣️ Real-time voice agents with SIP, ASR, TTS
+- 🗣️ Real-time voice agents with SIP, ASR, TTS and more
 - 🧠 Architecting scalable LangGraph agents
 - 🔐 Secure APIs with OAuth2, Keycloak
 - 🛠️ Obsessed with debugging until it works
@@ -18,12 +18,12 @@ I'm a 25-year-old AI Developer based in Buenos Aires, Argentina. Formerly a DevO
 - FASTAPI<img src='https://img.icons8.com/ios-filled/344/api.png' alt='FASTAPI' height='40'>
 - MONGODB<img src='https://img.icons8.com/color/344/mongodb.png' alt='MONGODB' height='40'>
 - REDIS<img src='https://img.icons8.com/color/344/redis.png' alt='REDIS' height='40'>
-- LANGCHAIN<img src='https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-langchain-a-framework-for-developing-applications-powered-by-language-models-logo-color-tal-revivo.png' alt='LANGCHAIN' height='40'>
-- OPENAI<img src='https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-openai-an-artificial-intelligence-research-laboratory-based-logo-color-tal-revivo.png' alt='OPENAI' height='40'>
-- CHROMADB<img src='https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-database-database-flaticons-lineal-color-flat-icons-5.png' alt='CHROMADB' height='40'>
-- KEYCLOAK<img src='https://www.keycloak.org/resources/images/keycloak_icon_512px.svg' alt='KEYCLOAK' height='40'>
-- ASR / TTS<img src='https://img.icons8.com/external-flatart-icons-outline-flatarticons/344/external-voice-recognition-voice-recognition-flatart-icons-outline-flatarticons.png' alt='ASR TTS' height='40'>
-- SIP / RTP<img src='https://img.icons8.com/external-filled-outline-wichaiwi/344/external-voip-telecommunication-wichaiwi-filled-outline-wichaiwi.png' alt='SIP' height='40'>
+- LANGCHAIN - LANGGRAPH STACK
+- OPENAI WRAPPER
+- VECTOR SEARCHS - RAG
+- AUTHENTICATOR
+- ASR / TTS
+- SIP / RTP - REALTIME PROTOCOLS
 - REACTJS<img src='https://img.icons8.com/ultraviolet/344/react--v2.png' alt='REACTJS' height='40'>
 - JS<img src='https://img.icons8.com/color/344/javascript--v1.png' alt='JS' height='40'>
 - NODEJS<img src='https://img.icons8.com/color/344/nodejs.png' alt='NODEJS' height='40'>
